@@ -1,0 +1,9 @@
+*.pgm
+*.exe
+*.gif
+
+ball
+cube
+clock
+
+frames/
