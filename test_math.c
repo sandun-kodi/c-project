@@ -4,6 +4,9 @@
 #include "canvas.h"
 #include "math3d.h"
 
+#include <sys/stat.h>
+#include <sys/types.h>
+
 #define M_PI 3.14159265358979323846
 #define WIDTH 800
 #define HEIGHT 800
